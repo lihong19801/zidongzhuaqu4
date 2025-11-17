@@ -1,4 +1,13 @@
 proxies:
+- name: 9|@NoForcedheaven
+  obfs: salamander
+  obfs-password: 9242a8bf
+  password: a2678c97b8d79059
+  port: 443
+  server: 46.62.152.236
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
 - name: 10|MCI-IR--@V2rayAlpha-16
   password: 05fd3f79-dca0-4358-a803-c8d4711c17a3
   port: 58338
