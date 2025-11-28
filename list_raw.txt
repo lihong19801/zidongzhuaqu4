@@ -29,7 +29,7 @@ hysteria2://89451f48-2b2e-4f8b-8f64-edef856ba484@sb1.oomz.ru:30000?insecure=1&sn
 hysteria2://89451f48-2b2e-4f8b-8f64-edef856ba484@sb2.oomz.ru:30000?insecure=1&sni=bing.com#9%7C%E2%9C%A823%40oneclickvpnkeys
 hysteria2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram-->@Ln2Ray#9%2C10%7C%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
 hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram-->@Ln2Ray#9%2C10%7C%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig%20%231
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#9%2C10%7C%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40freeOnlineVPN%20%231
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#9%2C10%7C%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40freeOnlineVPN%20%234
 hysteria2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:2056?insecure=1&sni=de.eyucdn.xyz#9%2C10%7C%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 hysteria2://a1996dcf-0717-4dea-a6c1-9abeace8acf1@blogtest.ghazatehran.ir:4431?insecure=1&sni=blogtest.ghazatehran.ir&obfs=salamander&obfs-password=2wsx#9%2C10%7Cr%E2%99%A1ya%20%232
 hysteria2://a2678c97b8d79059@46.62.152.236:443?insecure=1&obfs=salamander&obfs-password=9242a8bf#9%7C%40NoForcedheaven
@@ -242,5 +242,5 @@ vless://593d1652-6022-4893-b756-0c9b86885dad@uuk5v.tok8888.com:8443?allowInsecur
 vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?allowInsecure=0&sni=aws.amazon.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#14%7CUS_speednode_0042
 trojan://telegram-id-privatevpns@51.45.12.251:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#14%7CUS_speednode_0043
 trojan://telegram-id-directvpn@51.45.12.251:22223?allowInsecure=1&sni=trojan.burgerip.co.uk#14%7CUS_speednode_0044
-ss://YWVzLTI1Ni1nY206Y2NmNDI2ZjFmZTc4@103.103.245.158:443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fzksuapgx%3Bhost%3Dnewroot2v1.dsjsapp.com%3Btls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 hhysteria2://123456@192.3.85.237:443?security=tls&insecure=1&sni=bing.com#@V2rayNG3
+ss://YWVzLTI1Ni1nY206Y2NmNDI2ZjFmZTc4@103.103.245.158:443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fzksuapgx%3Bhost%3Dnewroot2v1.dsjsapp.com%3Btls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
